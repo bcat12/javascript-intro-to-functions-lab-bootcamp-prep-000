@@ -2,7 +2,6 @@ function shout(string) {
 return string.toUpperCase()
 }
 
-
 function logshout(string)
 console.log (string.toLowerCase)()
 
@@ -11,7 +10,6 @@ console.log (string.toLowerCase)()
 function whisper(string) {
 return string.toLowerCase()
 }
-
 
 function logwhisper(string)
 console.log (string.toUpperCase)()
