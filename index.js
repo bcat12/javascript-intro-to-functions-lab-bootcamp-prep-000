@@ -3,7 +3,7 @@ return string.toUpperCase()
 }
 
 function logshout(string)
-console.log (logshout(string.toLowerCase))()
+console.log (string)()
 
 
 
@@ -12,7 +12,7 @@ return string.toLowerCase()
 }
 
 function logwhisper(string)
-console.log (logwhisper(string.toUpperCase))()
+console.log (string)()
  
  
 
