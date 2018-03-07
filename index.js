@@ -12,7 +12,7 @@ return string.toLowerCase()
 }
 
 function logwhisper(string)
-console.log (string)()
+console.log.toLowerCase (string)()
  
  
 
