@@ -7,6 +7,7 @@ function logshout(string)
 
 
 
+
 function whisper(string) {
 return string.toLowerCase()
 }
@@ -21,8 +22,8 @@ function sayHiToGrandma(string) {
    return "I can't hear you!";
    
    else if (string.toUpperCase()===string)
-   return "YES INDEED!";
+    return "YES INDEED!";
    
    else (string = "I love you, Grandma.")
-   return "I love you, too."
+    return "I love you, too."
 }
